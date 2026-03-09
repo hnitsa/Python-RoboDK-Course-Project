@@ -51,3 +51,7 @@ Inside RoboDK export the robot program to the controller language. The output fi
 Transfer the program to the robot.
 
 Upload the generated program file to the robot controller through USB or network connection. Start the program on the robot controller. The robot follows the generated trajectory and reproduces the detected outline.
+
+Mantas_Course_Project.docx is the report for this projects. It describes the way this project was created and the results achieved.
+
+This project was made by Vladyslav Hnitsa (@hnitsa), Vladyslav Pavlenko (@luffill), Mark Tretiak (@MarkTretiak), Maxym Malyshkin (), and Maxime Brunet
