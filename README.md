@@ -54,4 +54,4 @@ Upload the generated program file to the robot controller through USB or network
 
 Mantas_Course_Project.docx is the report for this projects. It describes the way this project was created and the results achieved.
 
-This project was made by Vladyslav Hnitsa (@hnitsa), Vladyslav Pavlenko (@luffill), Mark Tretiak (@MarkTretiak), Maxym Malyshkin (), and Maxime Brunet
+This project was made by Vladyslav Hnitsa (@hnitsa), Vladyslav Pavlenko (@luffill), Mark Tretiak (@MarkTretiak), Maxym Malyshkin (@maksymfro), and Maxime Brunet
